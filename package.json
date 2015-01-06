@@ -1,0 +1,30 @@
+{
+  "name": "canvas-boilerplate",
+  "version": "0.0.1",
+  "description": "A basic, simple, and easy way to handle HTML5 Canvas",
+  "main": "canvas-boilerplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acauamontiel/canvas-boilerplate.git"
+  },
+  "keywords": [
+    "pager",
+    "pagination"
+  ],
+  "author": "Acauã Montiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acauamontiel/canvas-boilerplate/issues"
+  },
+  "homepage": "https://github.com/acauamontiel/canvas-boilerplate",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "jshint-stylish": "^1.0.0"
+  }
+}

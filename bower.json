@@ -1,0 +1,28 @@
+{
+  "name": "canvas-boilerplate",
+  "main": "canvas-boilerplate.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/acauamontiel/canvas-boilerplate",
+  "authors": [
+    "Acauã Montiel <contato@acauamontiel.com.br>"
+  ],
+  "description": "A basic, simple, and easy way to handle HTML5 Canvas",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "canvas",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.json",
+    "*.md",
+    "gulpfile.js"
+  ]
+}
